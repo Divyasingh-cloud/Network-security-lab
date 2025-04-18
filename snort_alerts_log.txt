@@ -1,0 +1,1 @@
+04/18-14:30:33.123456 [**] [1:2001219:10] ET SCAN Nmap -sS window 1024 [**] [Classification: Attempted Information Leak] [Priority: 2] 192.168.1.100 -> 192.168.1.1

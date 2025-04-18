@@ -1,0 +1,8 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2025-04-18 14:25 IST
+Nmap scan report for 192.168.1.1
+Host is up (0.00032s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
