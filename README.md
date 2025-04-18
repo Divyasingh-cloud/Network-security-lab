@@ -97,12 +97,12 @@ All set to the same internal network.
 ---
 
 ## **Screenshots**
-- [ ] pfSense firewall rules
-- [ ] Wireshark captures
-- [ ] Snort alert logs
-- [ ] Kali attack terminal output
+- [✓] pfSense firewall rules
+- [✓] Wireshark captures
+- [✓] Snort alert logs
+- [✓] Kali attack terminal output
 
-(Add screenshots in `/screenshots` folder and link them here)
+ 
 
 ---
 
